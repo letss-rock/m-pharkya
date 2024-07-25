@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ...Python and Kotlin
 - 📫 How to reach me ... By telegram Username :User_op1
 - i Love Music 🎵
-- A part of google developer program :D
+- A part of google developer program :P
+- A part of Github Developer program :)
+- Owner@Skymind Insghts
 -  Whatsapp Beta Tester (Wanna Know New features visit bit.ly(link to be inserted , still in development :D))
 
 <!---
