@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohit
+- 👋 Hi, I’m Mohit (@m-pharkya)
 - 👀 I’m interested in Technologies specially computer science
 - 🌱 I’m currently learning ...Python and Kotlin
 - 📫 How to reach me ... By telegram Username :User_op1
