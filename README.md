@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohit (@m-pharkya)
 - 👀 I’m interested in Technologies specially computer science
-- 🌱 I’m currently learning ...Python, Kotlin and JavaScript
-- 📫 How to reach me ... By telegram Username :User_op1
+- 🌱 I’m currently learning ...Python
 - i Love Music 🎵
 - A part of google developer program :P
 - A part of Github Developer program :)
