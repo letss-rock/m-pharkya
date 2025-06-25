@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit (@m-pharkya)
+- 👋 Hi, I’m Mohit 
 - 👀 I’m interested in Technologies specially computer science
 - 🌱 I’m currently learning ...Python
 - i Love Music 🎵
